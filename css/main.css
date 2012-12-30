@@ -1,0 +1,173 @@
+@font-face {
+  font-family: 'PacificoRegular';
+  src: url("../fonts/pacifico/Pacifico-webfont.eot");
+  src: url("../fonts/pacifico/Pacifico-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/pacifico/Pacifico-webfont.woff") format("woff"), url("../fonts/pacifico/Pacifico-webfont.ttf") format("truetype"), url("../fonts/pacifico/Pacifico-webfont.svg#PacificoRegular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* line 14, main.scss */
+img {
+  vertical-align: middle;
+}
+
+/* line 19, main.scss */
+.emptyzone {
+  min-height: 50px;
+}
+
+/* line 21, main.scss */
+#accueil {
+  height: 100%;
+  background: url("../resources/images/img_loading.png") no-repeat 50% 50% black;
+  background-color: #c9c5a2;
+}
+
+/* line 28, main.scss */
+.about-item {
+  font-size: 0.7em;
+}
+/* line 30, main.scss */
+.about-item img {
+  float: left;
+}
+/* line 31, main.scss */
+.about-item h2 {
+  margin-left: 50px;
+  font-weight: bold;
+  font-size: 1em;
+}
+/* line 32, main.scss */
+.about-item .info {
+  margin-left: 50px;
+}
+
+/* line 35, main.scss */
+.direction-item {
+  font-size: 0.8em;
+  min-height: 45px;
+}
+/* line 38, main.scss */
+.direction-item img {
+  float: left;
+}
+/* line 39, main.scss */
+.direction-item .info {
+  margin-left: 50px;
+  min-height: 35px;
+}
+/* line 43, main.scss */
+.direction-item .detail {
+  text-align: right;
+}
+/* line 45, main.scss */
+.direction-item .detail .span {
+  font-style: italic;
+}
+
+/* line 49, main.scss */
+.poi-item {
+  font-size: 0.9em;
+  min-height: 50px;
+  font-weight: normal;
+}
+/* line 53, main.scss */
+.poi-item img {
+  float: left;
+}
+/* line 54, main.scss */
+.poi-item .info {
+  margin-left: 50px;
+}
+/* line 56, main.scss */
+.poi-item .info .distance {
+  font-weight: normal;
+  font-style: italic;
+}
+/* line 57, main.scss */
+.poi-item .info .titre {
+  font-weight: bold;
+}
+
+/* line 61, main.scss */
+#distanceSelect {
+  width: 100px;
+}
+
+/* line 62, main.scss */
+#typeSelect {
+  width: 150px;
+}
+
+/* line 64, main.scss */
+#poi-map {
+  width: 100%;
+  height: 250px;
+}
+
+/* line 65, main.scss */
+#depart-map {
+  width: 100%;
+  min-height: 305px;
+  height: 100%;
+}
+
+/* line 67, main.scss */
+.poi-info {
+  font-size: 0.9em;
+}
+/* line 71, main.scss */
+.poi-info h2 {
+  font-size: 1.2em;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 5px;
+  font-family: 'PacificoRegular';
+  font-weight: initial;
+}
+/* line 79, main.scss */
+.poi-info h3 {
+  font-weight: bold;
+  width: 100%;
+  border-bottom: 1px black solid;
+}
+/* line 85, main.scss */
+.poi-info .contact {
+  margin-left: 15px;
+  margin-top: 15px;
+  min-height: 50px;
+}
+/* line 87, main.scss */
+.poi-info .contact ul {
+  margin: 0;
+  padding: 0;
+}
+/* line 88, main.scss */
+.poi-info .contact li {
+  margin-top: 15px;
+  min-height: 50px;
+  list-style: none;
+}
+/* line 93, main.scss */
+.poi-info .adresse {
+  margin-left: 15px;
+  margin-top: 15px;
+  min-height: 50px;
+}
+/* line 97, main.scss */
+.poi-info a {
+  color: black;
+}
+/* line 98, main.scss */
+.poi-info a:hover {
+  color: black;
+}
+/* line 99, main.scss */
+.poi-info a:visited {
+  color: black;
+}
+/* line 101, main.scss */
+.poi-info .description {
+  margin: 15px;
+  padding-bottom: 15px;
+}

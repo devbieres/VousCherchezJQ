@@ -1,0 +1,62 @@
+[
+    {
+        "id":"0", "index":"0",
+        "categorie":"Information", "titre":"A propos",
+        "info":"Conformément aux dispositions des articles 6-III et 19 de la loi pour la Confiance dans l'Economie Numérique, nous vous communiquons les éléments suivants : <ul><li>Propriétés : Thierry GLIN </li> <li>Joignable (normalement) : thierry[a]lafamillebn[point]net </li></ul>"
+    },
+    {
+        "id":"1", "index":"1",
+        "categorie":"Information", "titre":"Hackathon 2012",
+        "info":"Cette application a été réalisée dans le cadre du <a href='http://data.nantes.fr/actualites/detail-dune-actualite/hackathon-open-data-4-projets-developpes/' > Hackathon 2012</a> organisé à Nantes. Elle a été réalisée en collaboration avec Benoît SIMARD et Mael JALLAIS. Une version web est disponible <a href='http://hack2012.logisima.com/' > ici</a>. Merci à eux c était un chouette week-end !"
+    },
+    {
+        "id":"3", "index":"3",
+        "categorie":"Source", "titre":"Région Pays de Loire",
+        "info":"Les données sont en partie issues des données ouvertes par la Région Pays de Loire via son espace : <a href='http://data.paysdelaloire.fr/' > Ici </a>"
+    },
+    {
+        "id":"4", "index":"4",
+        "categorie":"Source", "titre":"Département Loire Atlantique",
+        "info":"Les données sont en partie issues des données ouvertes par le département Loire Atlantique via son espace : <a href='http://data.loire-atlantique.fr/' > Ici </a>"
+    },
+    {
+        "id":"5", "index":"5",
+        "categorie":"Source", "titre":"Nantes Métropole",
+        "info":"Les données sont en partie issues des données ouvertes par le Nantes Métropole via son espace : <a href='http://data.nantes.fr//' > Ici </a>"
+    },
+    {
+        "id":"6", "index":"6",
+        "categorie":"Crédits", "titre":"Sencha Touch",
+        "info":"Le site utilise le framework Sencha Touch comme base de développement : <a href='http://www.sencha.com/products/touch/' > Ici </a>"
+    },
+    {
+        "id":"7", "index":"7",
+        "categorie":"Crédits", "titre":"Open Street Map",
+        "info":"Les cartes sont celles du projet  : <a href='http://www.openstreetmap.org/' > Open Street Map </a>"
+    },
+    {
+        "id":"8", "index":"8",
+        "categorie":"Crédits", "titre":"Leaflet",
+        "info":"Pour les afficher sans trop se prendre la tête  : <a href='http://leafletjs.com/' > Leaflet JS </a>"
+    },
+    {
+        "id":"9", "index":"9",
+        "categorie":"Crédits", "titre":"MapQuest",
+        "info":"Les directions sont calculées par le service Directions disponible ici : <a href='http://open.mapquestapi.com/directions/' > MapQuest </a>"
+    },
+    {
+        "id":"10", "index":"10",
+        "categorie":"Crédits", "titre":"ElasticSearch",
+        "info":"La base de données utilisée en back-end est : <a href='http://www.elasticsearch.org/' > Elasticsearch </a>"
+    },
+    {
+         "id":"11", "index":"11",
+         "categorie":"Crédits", "titre":"MapIcons",
+         "info":"La source des zolies icons : <a href='http://mapicons.nicolasmollet.com/' > Ici </a>"
+    },
+    {
+         "id":"2", "index":"2",
+         "categorie":"Information", "titre":"LibertTIC",
+         "info":"Rien ne serait possible sans <a href='http://libertic.wordpress.com/libertic/' > Ici </a>"
+    }
+]

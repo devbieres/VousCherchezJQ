@@ -1,0 +1,57 @@
+[
+    {
+        "code":"cave",
+        "nom":"Cave",
+        "theme":"tourisme"
+    },
+    {
+        "code":"restaurant",
+        "nom": "Restaurant",
+        "theme":"tourisme"
+    },
+    {
+         "code":"hotel",
+         "nom":"Hôtel",
+         "theme":"tourisme"
+    },
+    {
+         "code":"monument",
+         "nom":"Monument",
+         "theme":"tourisme"
+    },
+    {
+         "code":"bicloo",
+         "nom":"Bicloo",
+         "theme":"transport"
+    },
+    {
+         "code":"parking",
+         "nom":"Parking",
+         "theme":"transport"
+    },
+    {
+         "code":"covoiturage",
+         "nom":"Covoiturage",
+         "theme":"transport"
+    },
+    {
+         "code":"marguerite",
+         "nom":"Marguerite",
+         "theme":"transport"
+    },
+    {
+         "code":"gare routière",
+         "nom":"Gare routière",
+         "theme":"transport"
+    },
+    {
+         "code":"gare",
+         "nom":"Gare",
+         "theme":"transport"
+    },
+    {
+         "code":"covoiturage",
+         "nom":"Covoiturage",
+         "theme":"transport"
+    }
+]
